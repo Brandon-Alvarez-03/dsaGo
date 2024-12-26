@@ -11,8 +11,8 @@ func GenerateRandomArray(size int) []int {
 	arr := make([]int, size)
 	rand.Seed(time.Now().UnixNano())
 	for i := 0; i < size; i++ {
-		arr[i] = rand.Intn(101)  // Values between 0-100
+		arr[i] = rand.Intn(11)  // Values between 0-10
 	}
-	fmt.Println("Generated array:", arr)
+	fmt.Println("\nGenerated array:", arr)
 	return arr
 }
