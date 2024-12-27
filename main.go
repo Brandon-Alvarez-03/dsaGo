@@ -22,10 +22,10 @@ func main() {
 	searchAlgos.LinearSearch(arr, target)
 
 	fmt.Println("\nPerforming Bubble Sort...")
-	sortingAlgos.BubbleSort(arr)
+	sortedArr := sortingAlgos.BubbleSort(arr)
 
 	fmt.Println("\nPerforming Binary Search (Placeholder)...")
-	searchAlgos.BinarySearch()  // Placeholder call
+	searchAlgos.BinarySearch(sortedArr, target)  // Placeholder call
 
 
 }
