@@ -2,6 +2,19 @@
 
 A comprehensive implementation of common data structures and algorithms in Go, featuring searching and sorting algorithms with a focus on clean, efficient, and well-documented code.
 
+MUST ADD
+
+- Quick Sort
+- Merge Sort
+- Heap Sort
+- Insertion Sort
+- Selection Sort
+- Radix Sort
+- Shell Sort
+- Bucket Sort
+- Counting Sort
+- Example of Recursion
+
 ## Features
 
 - **Search Algorithms**
