@@ -4,16 +4,31 @@ A comprehensive implementation of common data structures and algorithms in Go, f
 
 MUST ADD
 
+## Primary
+
+- Examples of Recursion: e.g. Factorial recursion, Fibonacci sequence, etc.
 - Quick Sort
 - Merge Sort
-- Heap Sort
 - Insertion Sort
 - Selection Sort
+
+- Structs and Interfaces (Using Structs)
+- Linked Lists (Singly and Doubly)
+- Stacks and Queues (Using Slices)
+- Hash Tables (Using Maps)
+- Binary Trees (Using Structs)
+- Graphs (Using Structs)
+- Tries (Using Structs)
+
+
+## Secondary
+
+- Heap Sort
 - Radix Sort
 - Shell Sort
 - Bucket Sort
 - Counting Sort
-- Example of Recursion
+
 
 ## Features
 
